@@ -1,16 +1,31 @@
-# projeto_perguntas
+# QuizMaster - Quiz Application
 
-A new Flutter project.
+## About the Project
 
-## Getting Started
+**QuizMaster** is a simple quiz application developed with **Flutter**. It allows users to answer questions and receive a score feedback at the end. The goal is to provide a quick and easy way to test knowledge in a fun and engaging manner.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Simple and user-friendly interface
+- Questions with multiple answer choices
+- Score at the end of the quiz
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## App Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/e5957e9f-60de-4c7f-bedc-d06a76c112ed)
+![image](https://github.com/user-attachments/assets/d5791631-aa0d-48ac-8e1f-257af53fcdec)
+
+
+
+## How to Run the Project
+
+### Prerequisites
+
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- Android Studio or VS Code with Flutter support
+
+### Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/flutter-quiz.git
